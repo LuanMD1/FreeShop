@@ -1,0 +1,85 @@
+.backgroundMain {
+    margin-top: 3px;
+    height: 60%;
+    background-color:#85d0ee;
+    width: 100%;
+}
+
+.container {
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+    width: 100%;
+    background-color: #1565c0;
+}
+
+.subtitle {
+    letter-spacing: 1px;
+    color: yellow;
+    display: flex;
+    margin-top: 15px;
+    font-size: 3em;
+    align-items: center;
+    justify-content: center;
+}
+
+.entregaFullText {
+    letter-spacing: 0.7px;
+    margin-top: 10px;
+    display: flex;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.75em;
+}
+
+.button-box {
+    margin-top: 0px;
+    margin-left: 200px;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    border-radius: 120px;
+    width: 70%;
+    height: 65%;
+    padding: 10px;
+}
+
+.button-top {
+    letter-spacing: 1px;
+    font-size: 1em;
+    margin-top: 20px;
+    margin-left: 35%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 29%;
+    color: white;
+    background-color: #3385d6;
+    border-radius: 30px;
+    height: 2em;
+}
+
+.button-left {
+    letter-spacing: 0.5px;
+    font-size: 1.75em;
+    margin-top: 50px;
+    margin-left: 25%;
+    width: 25%;
+    color: white;
+    background-color: #32a852;
+    border-radius: 30px;
+    height: 2.5em;
+}
+
+.button-right {
+    letter-spacing: 0.5px;
+    font-size: 1.75em;
+    margin-top: 20px;
+    color: white;
+    width: 25%;
+    background-color:#3385d6;
+    border-radius: 30px;
+    height: 2.5em;
+}

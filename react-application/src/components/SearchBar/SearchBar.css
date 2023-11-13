@@ -1,0 +1,33 @@
+.input {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    position: absolute;
+    font-size: 1em;
+    height: 3em;
+    margin-top: -60px;
+    margin-left: 370px;
+    width: 50%;
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.icon {
+    position: fixed;
+    margin-left: 200px;
+    margin-top: -285px;
+    color: black;
+}
+
+ .searchButton {
+    background: none;
+    border: none;
+    font-size: 1.2em;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 750px;
+    width: 10%;
+    height: 80%;
+}

@@ -1,0 +1,9 @@
+.products-container {
+    padding: 20px 20px 50px;
+    margin-top: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 30px;
+  }
+  
+

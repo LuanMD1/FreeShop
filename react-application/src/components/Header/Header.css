@@ -1,0 +1,13 @@
+.title {
+    position: absolute;
+    z-index: 2;
+    letter-spacing: 1px;
+    margin-top: -85px;
+    margin-left: 70px;
+    padding: 20px;
+    height: 100px;
+    background-color: #1565c0;
+    font-size: 3em;
+    color: white;
+}
+
