@@ -2,7 +2,6 @@ import React, { useState, useContext } from "react";
 import { BsSearch } from 'react-icons/bs';
 import "./SearchBar.css";
 
-//import { FontAwesomeIcon } from "@fontawesome/react-fontawesome";
 import fetchProducts from "../../api/fetchProducts";
 import AppContext from "../../context/AppContext";
 
@@ -33,7 +32,6 @@ function SearchBar() {
 
       <button type="submit" className="searchButton">
           <BsSearch className="icon"/>
-        {/* <FontAwesomeIcon icon="fa-solid fa-magnifying-glass" className="iconLupa"/> */}
       </button>
     </form>
 

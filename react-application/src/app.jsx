@@ -5,8 +5,6 @@ import Main from './components/Main/Main';
 import Products from './components/Products/Products';
 import Cart from './components/Cart/Cart';
 
-//library.add(faMagnifyingGlass);
-
 function App() {
     return (
         <Provider>
