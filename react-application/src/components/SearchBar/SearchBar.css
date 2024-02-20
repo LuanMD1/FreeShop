@@ -7,8 +7,8 @@
     position: absolute;
     font-size: 1em;
     height: 3em;
-    margin-top: -60px;
-    margin-left: 370px;
+    margin-top: -8dvh;
+    margin-left: 20dvw;
     width: 50%;
     background-color: #ffffff;
     padding: 20px;
@@ -16,9 +16,9 @@
 
 .icon {
     position: fixed;
-    margin-left: 220px;
-    margin-top: -345px;
-    color: black;
+    margin-left: 10dvw;
+    margin-top: -20dvh;
+    color: rgb(0, 0, 0);
 }
 
  .searchButton {
@@ -26,8 +26,8 @@
     border: none;
     font-size: 1.2em;
     position: absolute;
-    margin-top: -10px;
-    margin-left: 750px;
+    margin-top: -26.5dvh;
+    margin-left: 53dvw;
     width: 10%;
     height: 80%;
 }

@@ -1,24 +1,24 @@
 
 .imagemIphone {
     position: absolute;
-    margin-left: -220px;
-    margin-top: -280px;
-    width: 40%;
-    height: 40%;
+    margin-left: -10dvw;
+    margin-top: -30dvh;
+    width: 30%;
+    height: 30%;
 }
 
 .imagemTV {
     position: absolute;
-    margin-left: 700px;
-    margin-top: -300px;
-    width: 33%;
-    height: 50%;
+    margin-left: 50dvw;
+    margin-top: -30dvh;
+    width: 25dvw;
+    height: 30dvh;
 }
 
 .bombImage{
     position: absolute;
-    margin-left: 610px;
-    margin-top: -270px;
-    width: 10%;
-    height: 25%;
+    margin-left: 42dvw;
+    margin-top: -23dvh;
+    width: 8dvw;
+    height: 8dvh;
 }
